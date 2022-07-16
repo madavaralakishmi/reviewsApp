@@ -1,0 +1,28 @@
+.bg-image {
+  background-image: url('https://assets.ccbp.in/frontend/react-js/reviews-bg.png');
+  background-size: cover;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+button {
+  background-color: transparent;
+  border: none;
+  cursor: pointer;
+  outline: none;
+}
+
+.image-Carousel-Container {
+  text-align: center;
+  width: 500px;
+}
+
+h1 {
+  color: white;
+}
+
+.para-color {
+  color: white;
+}
